@@ -5,7 +5,7 @@ An interactive financial simulation that estimates the probability of achieving 
 
 **[Live Demo](https://it23194380.github.io/monte-carlo-savings-simulator/)**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/it23194380/monte-carlo-savings-simulator/blob/main/notebook/monte-carlo-savings-simulator.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x6ECUrG9emrF_xUZnn9jgHX9Cj8ueo0m?usp=sharing)
 
 ![Screenshot of the web demo](figures/demo-screenshot.png)
 
