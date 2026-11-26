@@ -9,14 +9,15 @@ The simulator runs entirely in your browser using HTML, CSS and JavaScript. It s
 
 ## Controls
 
-| Control | What it does | Default |
-|---|---|---|
-| Monthly Contribution | Amount deposited at the end of each month, measured in LKR | LKR 15,000 |
-| Expected Annual Investment Return | Expected annual percentage return on accumulated savings | 8% |
-| Expected Annual Inflation | Expected annual percentage increase in prices | 5% |
-| Start | Starts or resumes the Monte Carlo simulation | — |
-| Pause | Temporarily pauses the simulation | — |
-| Reset | Clears the simulation so a new experiment can be performed | — |
+| Control | What it does | Range | Default |
+|---|---|---|---|
+| Monthly Contribution | Amount deposited at the end of each month (LKR) | 0 or above; step of LKR 1,000 | LKR 15,000 |
+| Mean Annual Investment Return | Expected annual investment return (%) | No explicit minimum or maximum; step of 0.5% | 8% |
+| Mean Annual Inflation | Expected annual inflation rate (%) | No explicit minimum or maximum; step of 0.5% | 5% |
+| Start | Starts or resumes the simulation | — | — |
+| Pause | Temporarily pauses the simulation | — | — |
+| Reset | Clears the simulation | — | — |
+
 
 ### Baseline simulation settings
 
